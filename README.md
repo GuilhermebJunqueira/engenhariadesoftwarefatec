@@ -1,1 +1,5 @@
-# engenhariadesoftwarefatec
+1°o texto comenta sobre uma diferença entre engenharia de software e programação onde ele levanta como diferença em foco o tempo onde a engenharia de software é mais focada em desenvolvimento com o tempo podendo haver mudanças e modificaçoes no meio do projeto e sempre pensando em mudanças olhando os riscos geralmente baseado em informaçoes imprecisas
+
+
+
+2°O primeiro exemplo de trade-offs é conseguir administrar o seu tempo entre lazer e produtividade , sendo que quando você aumentar um dos dos você acaba tendo que diminuir o outro porem sabendo que nenhum dos dois pode desaparecer. Outro exemplo seria focar no codigo ser mais facil de entender ou o tornalo melhor porem muito confuso de entender onde se o objetivo é um codigo que não sera muito utilizado por outras pessoas ele não precisa necessariamente ser entendido por outras pessoas ja um codigo que vai passar por muitas mãos é importente ser claro sobre oque esta acontecendo , outro exemplo é se o codigo deve ser flexivel para mudanças ou então focado em segurança sendo mais complicado de se modificar oque ajudaria a impedir mudanças indesejadas porem impedindo a mudança por outras pessoas que precisariam modifica-lo
