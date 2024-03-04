@@ -1,0 +1,13 @@
+Desempenho vs Escalabilidade
+Primeiro exemplo de Trade-off: Obter um desempenho ótimo frequentemente envolve otimizar o software para condições específicas, o que pode não escalar bem diante de uma carga aumentada ou de um crescimento na base de usuários.
+Explicação: Projetar para alto desempenho pode resultar em algoritmos intensivos em recursos, limitando a capacidade do software de lidar eficientemente com um número maior de usuários ou um aumento no volume de dados.
+Flexibilidade vs. Simplicidade:
+
+Segundo exemplo de Trade-off: Adicionar mais recursos e flexibilidade ao software pode torná-lo poderoso, mas também pode aumentar a complexidade, tornando o sistema mais difícil de entender, manter e usar.
+Explicação: Equilibrar o desejo por um aplicativo rico em recursos com a necessidade de simplicidade envolve trade-offs, pois capacidades adicionais muitas vezes vêm acompanhadas de complexidades aumentadas.
+Segurança vs. Usabilidade:
+
+Terceiro exemplo de Trade-off: Implementar medidas de segurança robustas às vezes resulta em uma experiência menos amigável para o usuário., com a necessidade de etapas adicionais de autenticação ou restrições
+mais rigorosas.
+Explicação: Encontrar o equilíbrio certo entre garantir a segurança do sistema e manter a usabilidade é desafiador. Por exemplo, a introdução de autenticação multifatorial pode fortalecer a segurança, mas 
+também acrescentar complexidade ao processo de acesso, influenciando a facilidade de uso para os usuários.
