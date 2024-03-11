@@ -1,0 +1,4 @@
+Utilizarei a arquitetura de pipeline pelo seguinte motivo, simplicidade é uma coisa muito 
+importante quando se tem um projeto que vai ser utilizade e modificado por mais de uma pessoa 
+de uma vez ou que vai passar para outras pessoas, mesmo sabendo que poderimos perder escalabilidade
+que algo muito util na renovação do projeto
